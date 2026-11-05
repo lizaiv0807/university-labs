@@ -1,2 +1,2 @@
 # university-labs
-лабораторні з ондп
+course-lab
